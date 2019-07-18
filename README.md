@@ -1,5 +1,4 @@
 # docker-mern-boilerplate
---------------------------------
 
 ## About the app
 This is a boilerplate for a containerized MERN Application. This consists of a Client which serves the FrontEnd (using React), the API (in Node/Express), and the database (MongoDB). All these nodes run seperately on a single node using `docker-compose`.
@@ -15,7 +14,7 @@ This is a boilerplate for a containerized MERN Application. This consists of a C
 8. If the webpage says `Database is connected`, the MongoDB database is connected.
 
 --------------------------------
-Docker-compose commands: 
+##Docker-compose commands: 
 
 FROM
 
