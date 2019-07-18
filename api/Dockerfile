@@ -5,7 +5,7 @@ FROM mhart/alpine-node:8.11.4
 WORKDIR /api
 
 # copying package.json into the container at /api
-COPY package*.json /api/
+COPY package.json /api/
 
 # installing dependencies
 RUN npm install
@@ -17,4 +17,4 @@ COPY . /api/
 EXPOSE 80
 
 # Run the app when the container launches
-CMD ["npm", "start"]
+CMD npm start
