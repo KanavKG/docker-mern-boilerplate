@@ -14,7 +14,7 @@ This is a boilerplate for a containerized MERN Application. This consists of a C
 8. If the webpage says `Database is connected`, the MongoDB database is connected.
 
 --------------------------------
-##Docker-compose commands: 
+## Docker-compose commands: 
 
 FROM
 
