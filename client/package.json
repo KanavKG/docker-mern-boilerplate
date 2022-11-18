@@ -7,7 +7,7 @@
     "mongoose": "^5.6.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "tsutils": "^3.14.0",
     "typescript": "^3.5.3"
   },
